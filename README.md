@@ -9,4 +9,5 @@ I’m an IT student learning web development.
 - SQL
 
 ## Projects
-- Phishing Link Detection (Mini Project)
+-hotel management project 
+-houce price 
